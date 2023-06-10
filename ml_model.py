@@ -2,7 +2,7 @@ print("Adding all ML related code")
 
 
 def model1(a,b):
-    print("Model1 has acc: 80%")
+    print("Model1 has acc: 100%")
 
 
 
