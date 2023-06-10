@@ -16,3 +16,7 @@ def model3(a,b):
 
 a = 10
 b = 5
+
+
+
+print("Model2 is best")
